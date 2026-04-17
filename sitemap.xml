@@ -469,6 +469,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingredientes/algarrobo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingredientes/huanarpo-macho/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -476,6 +482,12 @@
   </url>
   <url>
     <loc>https://alphaman.pe/ingredientes/maca-negra/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/ingredientes/malta/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -493,7 +505,37 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingredientes/tribulus/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/agrandamiento-prostatico-sintomas/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/agrandamiento-prostatico/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/andropausia/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/baja-testosterona/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -505,7 +547,73 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/dolor-perineal-masculino/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/energia-masculina/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/estres-sexual/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/eyaculacion-precoz/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/falta-de-libido/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/fatiga-sexual/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/impotencia-diabetes/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/infertilidad-masculina/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/orinar-frecuente-noche/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/perdida-masa-muscular/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostata-inflamada/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostatitis-cronica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -517,21 +625,21 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://alphaman.pe/ingredientes/algarrobo/</loc>
+    <loc>https://alphaman.pe/condiciones/sangre-en-semen/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://alphaman.pe/ingredientes/malta/</loc>
+    <loc>https://alphaman.pe/condiciones/testosterona-baja-sintomas/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://alphaman.pe/ingredientes/tribulus/</loc>
+    <loc>https://alphaman.pe/condiciones/varicocele/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
