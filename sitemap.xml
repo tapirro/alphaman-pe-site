@@ -853,6 +853,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-altitud-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-bicicleta-lima/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -865,7 +871,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-cafe-peruano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-cerveza-artesanal-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-ciclismo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-diabetes/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -891,6 +915,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-sueno/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-trabajo-sedentario/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -943,6 +973,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/salud-sexual-y-altitud/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/salud-sexual-y-estres-laboral/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/salud-sexual-y-sueno-peru/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -957,6 +999,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/sindrome-de-fatiga-masculina/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/sindrome-del-hombre-cansado/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
