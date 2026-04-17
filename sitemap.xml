@@ -464,7 +464,7 @@
   </url>
   <url>
     <loc>https://alphaman.pe/ingredientes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -475,8 +475,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingredientes/ginseng-rojo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingredientes/huanarpo-macho/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/ingredientes/l-arginina/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -511,6 +523,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingredientes/zinc/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -525,6 +543,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/agrandamiento-prostatico/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/andropausia-y-energia/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -565,6 +589,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/cancer-prostata-prevencion-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/cancer-prostata-prevencion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -597,6 +627,24 @@
   <url>
     <loc>https://alphaman.pe/condiciones/disfuncion-erectil-por-estres/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/disfuncion-erectil-y-contaminacion-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/disfuncion-erectil-y-diabetes-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/disfuncion-erectil-y-diabetes/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -643,6 +691,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/estres-sexual-y-rendimiento-pe/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/estres-sexual/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -685,6 +739,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/fimosis-y-salud-sexual/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/ginecomastia-masculina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -699,6 +759,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/hiperplasia-prostatica-benigna/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/hipogonadismo-tardio/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -721,8 +787,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/infertilidad-masculina-y-calor-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/infertilidad-masculina/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/infertilidad-por-varicocele/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -763,14 +841,50 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-alimentacion-peruana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-alimentacion/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-bicicleta-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-bicicleta/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-cerveza-artesanal-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-dieta-peruana/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-edad-hombres-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-sedentarismo/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -799,6 +913,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/prostatitis-y-moto-taxi-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/prostatitis/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -819,6 +939,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/salud-prostatica-preventiva/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/salud-sexual-y-sueno-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -877,14 +1003,56 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-baja-y-sedentarismo-pe/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/testosterona-y-alcohol/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-y-altitud-peru/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-y-cafe/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-y-comida-rapida/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-y-contaminacion-lima/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/testosterona-y-sueno/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/testosterona-y-turnos-nocturnos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/varicocele-y-fertilidad/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -901,8 +1069,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingrediente/ginseng-rojo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingrediente/huanarpo-macho/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/ingrediente/l-arginina/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -921,19 +1101,7 @@
   <url>
     <loc>https://alphaman.pe/ingrediente/zinc/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/ginseng-rojo/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/l-arginina/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
