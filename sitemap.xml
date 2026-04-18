@@ -433,6 +433,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingrediente/coenzima-q10/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingrediente/cordyceps/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -487,6 +493,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingrediente/niacina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingrediente/omega-3/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -535,6 +547,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/ingrediente/vitamina-b1/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/ingrediente/vitamina-b12/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -555,6 +573,12 @@
   <url>
     <loc>https://alphaman.pe/ingrediente/vitamina-d3/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/ingrediente/vitamina-e-plus/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -763,6 +787,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/estres-y-prostata/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/eyaculacion-precoz/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -871,6 +901,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://alphaman.pe/condiciones/inflamacion-prostatica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://alphaman.pe/condiciones/libido-baja-por-estres/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -969,6 +1005,12 @@
   <url>
     <loc>https://alphaman.pe/condiciones/prostata-y-edad-hombres-peru/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://alphaman.pe/condiciones/prostata-y-ejercicio/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1193,47 +1235,5 @@
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/condiciones/estres-y-prostata/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/condiciones/prostata-y-ejercicio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/condiciones/inflamacion-prostatica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/vitamina-b1/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/vitamina-e-plus/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/niacina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://alphaman.pe/ingrediente/coenzima-q10/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
